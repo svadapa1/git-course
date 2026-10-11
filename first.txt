@@ -1,3 +1,6 @@
 This is the first text in the project
 
 Adding some more matter here for the commit
+
+
+#create an avatar for user
